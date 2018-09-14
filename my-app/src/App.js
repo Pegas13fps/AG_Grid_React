@@ -12626,6 +12626,8 @@ class App extends Component {
                     <AgGridReact
                         enableSorting={true}
                         enableFilter={true}
+                        pagination={true}
+                        paginationPageSize={25}
                         columnDefs={this.state.columnDefs}
                         rowData={this.state.rowData}>
                     </AgGridReact>
