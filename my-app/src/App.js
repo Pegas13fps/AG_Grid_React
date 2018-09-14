@@ -34,7 +34,7 @@ class App extends Component {
                   //   return (<button data-id={params.id} onClick={this.onClickBreakDown}>CLICK</button>);
                   // }
                   
-                  // (<button onClick={this.onClickBreakDown}>CLICK</button>),
+                  // (<button onClick={this.onClickBreakDown}>CLICK</button>)
                 }                
             ],
             rowData: [
