@@ -12620,7 +12620,7 @@ class App extends Component {
                 <div 
                   className="ag-theme-balham"
                   style={{ 
-	                height: '500px', 
+	                height: '766px', 
 	                width: '100%' }} 
 		            >
                     <AgGridReact
